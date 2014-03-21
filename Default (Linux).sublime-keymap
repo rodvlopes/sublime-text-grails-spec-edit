@@ -1,0 +1,8 @@
+[
+    { 
+        "keys": ["f12"], "command": "ropen"
+    },
+    { 
+        "keys": ["shift+f12"], "command": "ropen", "args": {"integration": 1}
+    }
+]
