@@ -22,3 +22,5 @@ cd THIS_REPO
 mkdir ~/.config/sublime-text-2/Packages/GrailsSpecEdit
 cp * ~/.config/sublime-text-2/Packages/GrailsSpecEdit/
 ```
+
+For Sublime Text Version 3, change sublime-text-2 for 3.

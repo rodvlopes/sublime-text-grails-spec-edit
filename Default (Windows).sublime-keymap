@@ -1,8 +1,8 @@
 [
     { 
-        "keys": ["f12"], "command": "ropen"
+        "keys": ["f10"], "command": "ropen"
     },
     { 
-        "keys": ["shift+f12"], "command": "ropen", "args": {"integration": 1}
+        "keys": ["shift+f10"], "command": "ropen", "args": {"integration": 1}
     }
 ]
